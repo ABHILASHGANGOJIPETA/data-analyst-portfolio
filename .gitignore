@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.verify/
+.web-builder/
+*.tsbuildinfo
+server/
+uploads/
+planning/
