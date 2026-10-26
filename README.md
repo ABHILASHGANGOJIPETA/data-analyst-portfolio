@@ -51,7 +51,7 @@ I am interested in opportunities in Data Analytics, Business Intelligence, and d
 
 - **Portfolio:** https://abhilashanalytics.vercel.app
 - **GitHub:** https://github.com/ABHILASHGANGOJIPETA
-- **LinkedIn:** [Add your LinkedIn profile URL here.](https://www.linkedin.com/in/abhilashgangojipeta/)
+- **LinkedIn:** https://www.linkedin.com/in/abhilashgangojipeta/
 
 ---
 
